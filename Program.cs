@@ -13,7 +13,7 @@
                 Console.ForegroundColor = ConsoleColor.DarkBlue;
                 Console.WriteLine("*****************************************************");
                 Console.WriteLine("                                                     ");
-                Console.WriteLine("                  lojinha do léo                     ");
+                Console.WriteLine("                  lojinha de skate do léo                     ");
                 Console.WriteLine("                                                     ");
                 Console.WriteLine("*****************************************************");
                 Console.WriteLine("                                                     ");
